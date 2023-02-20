@@ -13,7 +13,8 @@ const Home = () => {
         <p className='py-4 max-w-[700px]'>I'm a passionate developer ready to grow and learn new skills.
         </p>
         <div>
-          <button className='text-black bg-[#0a8754] border-none border-2 px-6 py-3 my-2 flex items-center hover:bg-[#EBE9E9] '>View Work <HiArrowNarrowRight /></button>
+          <button className='text-black bg-[#0a8754] border-none border-2 px-6 py-3 my-2 flex items-center hover:bg-[#EBE9E9] '>View Work
+            <HiArrowNarrowRight/></button>
         </div>
       </div>
     </div>
