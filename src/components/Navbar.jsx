@@ -56,25 +56,25 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#DBC4A9 flex flex-col justify-center items-center"
+            : "absolute top-0 left-0 w-full h-screen bg-[#DBC4A9] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-6 text-4xl">
+        <li className="py-6 text-2xl">
           <Link onClick={handleClick} to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li className="py-6 text-4xl">
+        <li className="py-6 text-2xl">
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li className="py-6 text-4xl">
+        <li className="py-6 text-2xl">
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li className="py-6 text-4xl">
+        <li className="py-6 text-2xl">
           <Link
             onClick={handleClick}
             to="projects"
@@ -84,10 +84,34 @@ const Navbar = () => {
             Portfolio
           </Link>
         </li>
-        <li className="py-6 text-4xl">
+        <li className="py-6 text-2xl">
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
             Contact
           </Link>
+        </li>
+        <li className="py-6 text-2xl">
+          <a
+            className="flex justify-between items-center w-full text-black"
+            href="https://github.com/kennacapri"
+          >
+            <FaGithub size={30} />
+          </a>
+        </li>
+        <li className="py-6 text-2xl">
+          <a
+            className="flex justify-between items-center w-full text-black"
+            href="mailto:kennac28@gmail.com"
+          >
+            <HiOutlineMail size={30} />
+          </a>
+        </li>
+        <li className="py-6 text-2xl">
+          <a
+            className="flex justify-between items-center w-full text-black"
+            href="https://drive.google.com/file/d/1wwNlObVddO6ZqcZXNVvQGb7ZX7dQZkjW/view?usp=sharing"
+          >
+            <BsFillPersonLinesFill size={30} />
+          </a>
         </li>
       </ul>
 

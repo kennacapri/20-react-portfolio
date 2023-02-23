@@ -15,6 +15,9 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-[#0a8754] text-[#253031]">
             Contact
           </p>
+          <div>
+            <br></br>
+          </div>
           <p className="text-[#253031]">
             Submit the form below or shoot me an email - kennac28@gmail.com
           </p>
