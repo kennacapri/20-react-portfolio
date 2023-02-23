@@ -13,3 +13,6 @@ See LICENSE in the repo.
 ## url and screenshot
 
 [Kenna Fackrell](https://kennacapri.github.io/20-react-portfolio/)
+| Homepage | Mobile |
+|---------|---------|
+| ![desktop](https://user-images.githubusercontent.com/111388055/221017521-ab1f799c-70c2-4167-afd7-330d5682d6d9.jpg)|![mobile](https://user-images.githubusercontent.com/111388055/221017513-4698faf5-e527-4430-8eae-0c8c1bdb8bf6.jpg)|
