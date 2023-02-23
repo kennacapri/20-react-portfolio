@@ -151,7 +151,7 @@ const Projects = () => {
                 React Portfolio
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://kennacapri.github.io/20-react-portfolio/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0a8754] text-[#253031] font-bold text-lg">
                     Demo
                   </button>

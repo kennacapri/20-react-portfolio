@@ -9,3 +9,7 @@ When the user opens the application they are presented with a header, content se
 
 ## License
 See LICENSE in the repo.
+
+## url and screenshot
+
+[Kenna Fackrell](https://kennacapri.github.io/20-react-portfolio/)
