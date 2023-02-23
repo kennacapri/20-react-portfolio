@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/20-react-portfolio/static/css/main.7f6176c6.css",
+    "main.js": "/20-react-portfolio/static/js/main.1818d0cd.js",
+    "static/media/profile.jpg": "/20-react-portfolio/static/media/profile.40ef93bac48e37bb4b07.jpg",
+    "static/media/weather.jpg": "/20-react-portfolio/static/media/weather.32f52ddd112f6dd571f0.jpg",
+    "static/media/portfolio.jpg": "/20-react-portfolio/static/media/portfolio.64382584fdb3d7857d99.jpg",
+    "static/media/password.jpg": "/20-react-portfolio/static/media/password.2d0d799c12697bd16aee.jpg",
+    "static/media/techblog.jpg": "/20-react-portfolio/static/media/techblog.a192a471849742e494f1.jpg",
+    "static/media/quiz.jpg": "/20-react-portfolio/static/media/quiz.e6c4bda5b21081f2fe2e.jpg",
+    "static/media/notetaker.jpg": "/20-react-portfolio/static/media/notetaker.de9252758cd0f1b57bda.jpg",
+    "static/media/logo.png": "/20-react-portfolio/static/media/logo.173395bbea591724e28c.png",
+    "static/media/node.png": "/20-react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/20-react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/20-react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/20-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/20-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/20-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/20-react-portfolio/index.html",
+    "main.7f6176c6.css.map": "/20-react-portfolio/static/css/main.7f6176c6.css.map",
+    "main.1818d0cd.js.map": "/20-react-portfolio/static/js/main.1818d0cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6176c6.css",
+    "static/js/main.1818d0cd.js"
+  ]
+}
