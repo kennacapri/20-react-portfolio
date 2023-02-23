@@ -6,16 +6,16 @@ import quiz from "../assets/projects/quiz.jpg";
 import weather from "../assets/projects/weather.jpg";
 import portfolio from "../assets/projects/portfolio.jpg";
 
-const Work = () => {
+const Projects = () => {
   return (
     <div
-      name="work"
+      name="projects"
       className="w-full md:h-screen bg-[#DBC4A9] text-[#253031] "
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#0a8754] text-[#253031]">
-            Work
+            Projects
           </p>
           <p className="py-6"> Check out some of my recent work</p>
         </div>
@@ -170,4 +170,4 @@ const Work = () => {
   );
 };
 
-export default Work;
+export default Projects;
