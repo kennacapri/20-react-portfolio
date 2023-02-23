@@ -36,7 +36,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="projects" smooth={true} duration={500}>
-            Projects
+            Portfolio
           </Link>
         </li>
         <li>
@@ -81,7 +81,7 @@ const Navbar = () => {
             smooth={true}
             duration={500}
           >
-            Projects
+            Portfolio
           </Link>
         </li>
         <li className="py-6 text-4xl">
@@ -97,7 +97,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0a8754]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="/"
+              href="https://www.linkedin.com/in/kenna-fackrell-25a44713b/"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
@@ -105,7 +105,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b0e89c]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="/"
+              href="https://github.com/kennacapri"
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -113,7 +113,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0a8754]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="/"
+              href="mailto:kennac28@gmail.com"
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -121,7 +121,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b0e89c]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="/"
+              href="https://drive.google.com/file/d/1wwNlObVddO6ZqcZXNVvQGb7ZX7dQZkjW/view?usp=sharing"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
