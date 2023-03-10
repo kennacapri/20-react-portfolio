@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/20-react-portfolio/static/css/main.f966a0c5.css",
-    "main.js": "/20-react-portfolio/static/js/main.bdd486ed.js",
+    "main.js": "/20-react-portfolio/static/js/main.e541d7c2.js",
     "static/media/profile.jpg": "/20-react-portfolio/static/media/profile.40ef93bac48e37bb4b07.jpg",
+    "static/media/poetry.jpg": "/20-react-portfolio/static/media/poetry.1b89500f033b7a5bdc55.jpg",
     "static/media/weather.jpg": "/20-react-portfolio/static/media/weather.32f52ddd112f6dd571f0.jpg",
     "static/media/portfolio.jpg": "/20-react-portfolio/static/media/portfolio.64382584fdb3d7857d99.jpg",
     "static/media/password.jpg": "/20-react-portfolio/static/media/password.2d0d799c12697bd16aee.jpg",
     "static/media/techblog.jpg": "/20-react-portfolio/static/media/techblog.a192a471849742e494f1.jpg",
-    "static/media/quiz.jpg": "/20-react-portfolio/static/media/quiz.e6c4bda5b21081f2fe2e.jpg",
     "static/media/notetaker.jpg": "/20-react-portfolio/static/media/notetaker.de9252758cd0f1b57bda.jpg",
     "static/media/logo.png": "/20-react-portfolio/static/media/logo.173395bbea591724e28c.png",
     "static/media/node.png": "/20-react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -18,10 +18,10 @@
     "static/media/javascript.png": "/20-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/20-react-portfolio/index.html",
     "main.f966a0c5.css.map": "/20-react-portfolio/static/css/main.f966a0c5.css.map",
-    "main.bdd486ed.js.map": "/20-react-portfolio/static/js/main.bdd486ed.js.map"
+    "main.e541d7c2.js.map": "/20-react-portfolio/static/js/main.e541d7c2.js.map"
   },
   "entrypoints": [
     "static/css/main.f966a0c5.css",
-    "static/js/main.bdd486ed.js"
+    "static/js/main.e541d7c2.js"
   ]
 }
