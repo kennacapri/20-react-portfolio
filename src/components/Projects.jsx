@@ -2,7 +2,7 @@ import React from "react";
 import notetaker from "../assets/projects/notetaker.jpg";
 import password from "../assets/projects/password.jpg";
 import techblog from "../assets/projects/techblog.jpg";
-import quiz from "../assets/projects/quiz.jpg";
+import poetry from "../assets/projects/poetry.jpg";
 import weather from "../assets/projects/weather.jpg";
 import portfolio from "../assets/projects/portfolio.jpg";
 
@@ -96,21 +96,21 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${quiz})` }}
+            style={{ backgroundImage: `url(${poetry})` }}
             className="shadow-lg shadow-[#A27F67] group container rounded-md flex justify-center text-center items-center mx-auto content-div"
           >
             {/*hover effect*/}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-[#253031] tracking-wider">
-                API Code Quiz
+                Refrigerator Poetry
               </span>
               <div className="pt-8 text-center">
-                <a href="https://kennacapri.github.io/04-Challenge-CodeQuiz/">
+                <a href="https://refrigerator-poetry.herokuapp.com">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0a8754] text-[#253031] font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/kennacapri/04-Challenge-CodeQuiz">
+                <a href="https://github.com/kennacapri/refrigerator-poetry/tree/main">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0a8754] text-[#253031] font-bold text-lg">
                     Code
                   </button>
